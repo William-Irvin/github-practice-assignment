@@ -1,0 +1,19 @@
+---
+title: "Sample analysis"
+author: "Dr. Richards"
+date: "2025-08-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I expect to include the following outside of my code chunks:
+1) Explanations for Code and Operations
+2) Explanations of the Product (ex. Figure) produced by a code chunk
+3) Statments of Methodology (such as Stat Test Used) to aid in Reproducibility
+```{r setup, Multiplication}
+    blackjack = 7 * 3
+    print(blackjack)
+```
