@@ -1,5 +1,10 @@
 # github-practice-assignment
 
+
+This is a change on the testing branch.
+
+Hi, Garen Bainbridge was here!
+
 This GitHub repository is for Lab 2 of Bios 4801 that teaches us how to use GitHub
 in combination with RStudio. It includes 2 data files, a data analysis file,
 a text file, and a README.md file.
